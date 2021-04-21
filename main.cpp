@@ -6,11 +6,6 @@
 
 using namespace std;
 
-
-//nguyễn ngọc thiên ân
-//2051012007
-// -------
-
 char a[40][40]; //khai bao mang 2 chieu
 char key; // bien ky tu nhap vao tu ban phim
 
